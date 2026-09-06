@@ -1,0 +1,1 @@
+app = FastAPI()  # or app = Flask(__name__)
